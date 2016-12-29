@@ -4,7 +4,7 @@
     "username": "ec2-user",
     "port": 22,
     "secure": false,
-    "protocol": "scp",
+    "protocol": "sftp",
     "uploadOnSave": true,
     "passive": false,
     "debug": false,

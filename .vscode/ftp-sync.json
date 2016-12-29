@@ -1,0 +1,21 @@
+{
+    "remotePath": "/home/ec2-user/djangoelearing/src",
+    "host": "ec2-35-166-110-14.us-west-2.compute.amazonaws.com",
+    "username": "ec2-user",
+    "port": 22,
+    "secure": false,
+    "protocol": "scp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": "C:\\Users\\master\\DjangoLearning.pem",
+    "passphrase": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store",
+        ".remote-sync.json",
+        ".git/**",
+        "*.pyc"   
+    ]
+}
